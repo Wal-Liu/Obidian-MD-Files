@@ -1,0 +1,6 @@
+- Fix lỗi hiển thị  UCHotelResult (check)
+- POverView ( check)
+- Hiển thị các phòng ở PRoom ( Check)
+- Fix hiển thị PReview
+- Start rating in post hotel  ( check)
+- show hotel in My Business tab + edit

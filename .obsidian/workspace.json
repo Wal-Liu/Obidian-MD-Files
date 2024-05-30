@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "fc1c517c211397cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ead4158f9a864378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17a03603778c7f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System (normal).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd224b2159519bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System final (True - False).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14078690837dab01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System (fill in blank).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59d15be4d3395d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Đáp án hệ điều hành.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "580c84e63220c0d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e2db4460ae6cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f8e9f16b0495b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7daf690b30da2c71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd3f472570f66ca7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "91d02ba0aedd17fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b6952a4dace574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68bc5b1ded6098f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating System (normal).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07867a71f0381800",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating System (normal).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5e8637e9dd6f820",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9175be4220e21492",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating System (normal).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "17a03603778c7f0b",
+  "lastOpenFiles": [
+    "Operating System final (True - False).md",
+    "Operating System (normal).md",
+    "Operating System (fill in blank).md",
+    "Đáp án hệ điều hành.md",
+    "Pasted image 20240529201621.png",
+    "Pasted image 20240529200820.png",
+    "Pasted image 20240529200707.png",
+    "Pasted image 20240529200030.png",
+    "Pasted image 20240529195743.png",
+    "Scrip thuyết trình tư tưởng HCM.md",
+    "Pasted image 20240529160910.png",
+    "To do list Window Programing.md",
+    "2024-04-17.md",
+    "AI class vlog.md"
+  ]
+}
