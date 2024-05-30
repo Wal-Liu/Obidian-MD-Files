@@ -21,7 +21,6 @@
 21. The performance of Round Robin algorithm depends heavily on --> **the size of the time quantum**
 22. The virtual address space of a system is of the same size as the physical address space, the operating system designers decide to free the virtual memory entirely. Which one of the following is true? --> **Hardware support is no longer needed from MMU**
 23. .Which Operating System doesn't support networking between computers? --> **Windows 3.1**
-24. Which is built directly on the hardware? --> **Operating system**
 25. The state of a process after it reach an 1/0 instruction is      --> **Blocked**
 26. A system program that sets up an executable program in main memory ready for execution is --> **loader**
 27. In a time-sharing operating system, when the time slot given to a process is completed, the process goes from the running state to the --> **Ready state**
@@ -37,7 +36,6 @@
 37. Which system call returns the PID of the terminated child process? -- > **wait**
 38. Which Operating System doesn’t support long file names ? -->MS DOS
 39.  When there is more RAM, computer's performance is improved because --> **fewer page faults occur**
-40. The virtual address space of a system is of the same size as the physical address space, the operating system designers decide to free the virtual memory entirely. Which one of the following is true? --> **Hardware support is no longer needed from MMU**
 41. The primary purpose of an operating system is: --> **To keep systems programmers employed.**
 42.  Which of the following are loaded into main memory when the computer is booted ? --> **internal command instructions**
 43. Interrupt vector is ___  --> **an address that is indexed to an interrupt handler** 
@@ -45,4 +43,5 @@
 45.  The swap space is reserved in --> **the hard disk**
 46. A memory management unit performs memory-mapping by converting a logical address into a physical address, with the help of _____ --> **base and limit registers**
 47. Which of the following actions is/are typically not performed by the operating system when switching context from process P1 to process P2? --> **Swapping out the memory image of process P1 to the disk**
-48. TLB hit ratio --> high
+48. TLB hit ratio --> **high**
+49. The downside of calling a deadlock detection algorithm for every request is --> Significant costs during calculation.

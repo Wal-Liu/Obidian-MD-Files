@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System (normal).md",
+                "file": "Operating System (fill in blank).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System (normal).md",
+                "file": "Operating System (fill in blank).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System (normal).md"
+                "file": "Operating System (fill in blank).md"
               }
             }
           }
@@ -183,7 +184,7 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "17a03603778c7f0b",
+  "active": "14078690837dab01",
   "lastOpenFiles": [
     "Operating System final (True - False).md",
     "Operating System (normal).md",
