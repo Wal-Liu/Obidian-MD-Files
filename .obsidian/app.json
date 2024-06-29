@@ -6,5 +6,6 @@
     "downscalePercent": 100
   },
   "spellcheck": false,
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false
 }

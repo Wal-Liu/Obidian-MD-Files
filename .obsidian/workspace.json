@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ead4158f9a864378",
+        "id": "b32c631c3b7511a4",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf0435b94584e53",
+            "id": "06688a3321effdfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrip thuyết trình tư tưởng HCM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b3423bb7ff59013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-17.md",
+                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-17.md",
+                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-17.md",
+                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-17.md"
+                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md"
               }
             }
           }
@@ -160,34 +147,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b3423bb7ff59013",
+  "active": "06688a3321effdfc",
   "lastOpenFiles": [
-    "Drawing 2024-06-21 10.09.23.excalidraw.md",
-    "2024-04-17.md",
-    "AI.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 2.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 3.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 4.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 5.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 6.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 7.md",
+    "Untitled",
+    "Drawing/Note.excalidraw.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 1.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chủ nghĩa xã hội khoa học.md",
+    "HOME/HCMUTEnternment/Năm 2/Operating System/Đáp án hệ điều hành.md",
+    "HOME/HCMUTEnternment/Năm 2/Operating System/Operating System.md",
     "HCMUTE.md",
-    "Pháp Luật Đại Cương.md",
-    "Scrip thuyết trình tư tưởng HCM.md",
-    "Python.md",
-    "Window Programing.md",
-    "Tư Tưởng Hồ Chí Minh.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Cách làm bài thuyết trình.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Bài 1 - Những vấn đề cơ bản của nhà nước.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương",
+    "HOME/HCMUTEnternment/Năm 2/Window Programing/To do list Window Programing.md",
+    "HOME/HCMUTEnternment/Năm 2/Python.md",
+    "HOME/HCMUTEnternment/Năm 2/Window Programing",
+    "HOME/HCMUTEnternment/Năm 2/AI.md",
+    "HOME/HCMUTEnternment/Năm 2/Tư Tưởng HCM/Scrip thuyết trình tư tưởng HCM.md",
+    "HOME/HCMUTEnternment/Năm 2/Tư Tưởng HCM/Tư Tưởng Hồ Chí Minh.md",
+    "HOME/HCMUTEnternment/Năm 2/Tư Tưởng HCM",
+    "HOME/HCMUTEnternment/Năm 2/Operating System",
+    "HOME/HCMUTEnternment/Năm 2/Hè",
+    "HOME/HCMUTEnternment/Năm 2",
+    "HOME/HCMUTEnternment/Năm 1",
+    "HOME/Image/Pasted image 20240629004513.png",
+    "HOME/Image/Pasted image 20240628234447.png",
+    "HOME/Image/Pasted image 20240628234429.png",
+    "HOME/Image/Pasted image 20240628202556.png",
+    "HOME/Image/Pasted image 20240628202440.png",
+    "HOME/Image/Pasted image 20240628163532.png",
+    "HOME/Image",
+    "HOME/Image/Pasted image 20240628162914.png",
+    "Untitled 1.md",
+    "HCMUTEnternment/AI class vlog.md",
+    "HOME/HCMUTEnternment/Năm 2/Window Programing/Window Programing.md",
+    "2024-04-17.md",
     "Em Hy.md",
-    "Operating System.md",
     "Những vấn đề cơ bản về nhà nước.md",
-    "Bài 1 - Những vấn đề cơ bản của nhà nước.md",
-    "Chưa đặt tên.md",
-    "Bài 1 Những vấn đề cơ bản của nhà nước.md",
-    "Operating System (normal).md",
-    "Operating System final (True - False).md",
-    "Operating System (fill in blank).md",
-    "Đáp án hệ điều hành.md",
     "Pasted image 20240529201621.png",
     "Pasted image 20240529200820.png",
-    "Pasted image 20240529200707.png",
-    "Pasted image 20240529200030.png",
-    "Pasted image 20240529195743.png",
-    "Pasted image 20240529160910.png",
-    "To do list Window Programing.md",
-    "AI class vlog.md"
+    "Pasted image 20240529200707.png"
   ]
 }
