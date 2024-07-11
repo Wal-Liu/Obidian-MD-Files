@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b32c631c3b7511a4",
+        "id": "bb7cc3a60f6fda8a",
         "type": "tabs",
         "children": [
           {
-            "id": "06688a3321effdfc",
+            "id": "0940b99736e78861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -69,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91d02ba0aedd17fa",
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -147,12 +151,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06688a3321effdfc",
+  "active": "0940b99736e78861",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-07-11.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 4.md",
+    "Untitled.md",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
+    "Excalidraw/Drawing 2024-07-10 11.10.16.excalidraw.md",
+    "Excalidraw",
+    "HOME/Image/Pasted image 20240710102955.png",
     "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 2.md",
     "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 3.md",
-    "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 4.md",
+    "HOME/Image/Pasted image 20240630191002.png",
+    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Cách làm bài thuyết trình.md",
+    "Pháp luật.md",
     "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 5.md",
+    "HOME/Image/Pasted image 20240709204815.png",
+    "HOME/Image/Pasted image 20240706154054.png",
+    "HOME/Image/Pasted image 20240703111736.png",
+    "HOME/Image/Pasted image 20240703084216.png",
+    "HOME/Image/Pasted image 20240630204326.png",
+    "HOME/Image/Pasted image 20240630202959.png",
+    "HOME/Image/Pasted image 20240630195836.png",
     "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 6.md",
     "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học/Chương 7.md",
     "Untitled",
@@ -163,9 +184,7 @@
     "HOME/HCMUTEnternment/Năm 2/Operating System/Operating System.md",
     "HCMUTE.md",
     "HOME/HCMUTEnternment/Năm 2/Hè/Chủ nghĩa xã hội khoa học",
-    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Cách làm bài thuyết trình.md",
     "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Bài 1 - Những vấn đề cơ bản của nhà nước.md",
-    "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương/Pháp Luật Đại Cương.md",
     "HOME/HCMUTEnternment/Năm 2/Hè/Pháp luật đại cương",
     "HOME/HCMUTEnternment/Năm 2/Window Programing/To do list Window Programing.md",
     "HOME/HCMUTEnternment/Năm 2/Python.md",
@@ -179,21 +198,6 @@
     "HOME/HCMUTEnternment/Năm 2",
     "HOME/HCMUTEnternment/Năm 1",
     "HOME/Image/Pasted image 20240629004513.png",
-    "HOME/Image/Pasted image 20240628234447.png",
-    "HOME/Image/Pasted image 20240628234429.png",
-    "HOME/Image/Pasted image 20240628202556.png",
-    "HOME/Image/Pasted image 20240628202440.png",
-    "HOME/Image/Pasted image 20240628163532.png",
-    "HOME/Image",
-    "HOME/Image/Pasted image 20240628162914.png",
-    "Untitled 1.md",
-    "HCMUTEnternment/AI class vlog.md",
-    "HOME/HCMUTEnternment/Năm 2/Window Programing/Window Programing.md",
-    "2024-04-17.md",
-    "Em Hy.md",
-    "Những vấn đề cơ bản về nhà nước.md",
-    "Pasted image 20240529201621.png",
-    "Pasted image 20240529200820.png",
-    "Pasted image 20240529200707.png"
+    "Untitled 1.md"
   ]
 }

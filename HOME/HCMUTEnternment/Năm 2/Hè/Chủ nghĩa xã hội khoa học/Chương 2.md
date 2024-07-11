@@ -31,6 +31,21 @@ Bài tập 03
 	*Bằng chứng* ![[Pasted image 20240629004513.png]]
 
 Bài tập 04
-
+	Đáp án:
+		1: Thực hiện sứ mệnh lịch sử của GCCN trên thế giới hiện nay
+		GC công nhân hiện nay
+		2: thế kỷ XIX ; bóc lột về giá trị thặng dư
+		3: giai cấp không có tư liệu sản xuất, đi làm thuê và bị nhà tư bản bóc lột giá trị thặng dư
+		4: xu hướng tri thức hoá
+		5: giai cấp lãnh đạo
+		6: mâu thuẫn với -> chủ nghĩa tư bản trên toàn cầu
+		lực lượng -> đi đầu trong quá trình sản xuất công nghiep hiện đại
+		luôn phần đấu -> cho một trật tự
+		7: giành chính quyền về tay GCCN và nhân dân lao động
+		8: lãnh đạo thành công sự nghiệp đổi mới trong thời kỳ quá độ lên CNXH
+		9: liên quan đến lĩnh vực -> văn hoá tư tưởng
+		10: tư tưởng ; giáo dục ; xã hội
+	Minh chứng: 
+		![[Pasted image 20240630191002.png]]
 
 
